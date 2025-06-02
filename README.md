@@ -2,6 +2,10 @@
 
 A modern, AI-powered Customer Relationship Management platform built with React, TypeScript, and Supabase. This platform enables businesses to manage customers, create targeted campaigns, segment audiences, and track performance with intelligent insights.
 
+## 🌐 Live Preview
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://crm-plat-form.netlify.app/)
+
+
 ## 🚀 Features
 
 - **Customer Management**: Complete customer database with order history and analytics
