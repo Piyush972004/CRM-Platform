@@ -1,6 +1,6 @@
-# Welcome to your Lovable project
+# 🚀 Mini CRM Platform
 
-## Project info
+A lightweight yet powerful customer relationship management platform built for campaign segmentation, delivery, and intelligent insights — submitted for the **Xeno SDE Internship Assignment 2025**.
 
 **URL**: https://lovable.dev/projects/006f0113-53f2-489d-9fad-225c86da3a70
 
